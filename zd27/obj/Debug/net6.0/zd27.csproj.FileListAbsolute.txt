@@ -1,0 +1,15 @@
+C:\Users\Comp\Desktop\4dz\zd27\bin\Debug\net6.0\zd27.exe
+C:\Users\Comp\Desktop\4dz\zd27\bin\Debug\net6.0\zd27.deps.json
+C:\Users\Comp\Desktop\4dz\zd27\bin\Debug\net6.0\zd27.runtimeconfig.json
+C:\Users\Comp\Desktop\4dz\zd27\bin\Debug\net6.0\zd27.dll
+C:\Users\Comp\Desktop\4dz\zd27\bin\Debug\net6.0\zd27.pdb
+C:\Users\Comp\Desktop\4dz\zd27\obj\Debug\net6.0\zd27.csproj.AssemblyReference.cache
+C:\Users\Comp\Desktop\4dz\zd27\obj\Debug\net6.0\zd27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\Desktop\4dz\zd27\obj\Debug\net6.0\zd27.AssemblyInfoInputs.cache
+C:\Users\Comp\Desktop\4dz\zd27\obj\Debug\net6.0\zd27.AssemblyInfo.cs
+C:\Users\Comp\Desktop\4dz\zd27\obj\Debug\net6.0\zd27.csproj.CoreCompileInputs.cache
+C:\Users\Comp\Desktop\4dz\zd27\obj\Debug\net6.0\zd27.dll
+C:\Users\Comp\Desktop\4dz\zd27\obj\Debug\net6.0\refint\zd27.dll
+C:\Users\Comp\Desktop\4dz\zd27\obj\Debug\net6.0\zd27.pdb
+C:\Users\Comp\Desktop\4dz\zd27\obj\Debug\net6.0\zd27.genruntimeconfig.cache
+C:\Users\Comp\Desktop\4dz\zd27\obj\Debug\net6.0\ref\zd27.dll
